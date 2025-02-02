@@ -1,0 +1,136 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Header Section */
+header {
+    border-bottom: 5px solid #ffcc00; /* Thick yellow line */
+    padding-bottom: 10px; /* Space between text and line */
+    margin-bottom: 20px;
+}
+
+.header-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end; /* Align items at the bottom */
+}
+.name-title {
+    text-align: left;
+    
+
+}
+.contact-info {
+    text-align: right;
+}
+
+.contact-info p {
+    margin: 5px 0;
+    font-size: 0.9em;
+    color: #555;
+}
+
+
+
+.name-title h1 {
+    margin: 0;
+    font-size: 2.5em;
+    color: #333;
+}
+
+.name-title h2 {
+    margin: 0;
+    font-size: 1.5em;
+    color: #555;
+}
+
+/* Sections */
+section {
+    display: flex;
+    margin-bottom: 30px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #ccc;
+}
+
+section:last-child {
+    border-bottom: none;
+}
+
+.section-title {
+    flex: 80px 15opx 100px; /* Fixed width for the title section */
+    text-align: right;
+    padding-right: 20px;
+    font-size: 1.0em;
+    color: #333;
+   /* Push it to the right */
+}
+
+.section-content {
+    flex: 1;
+    padding-left: 50px;
+    color: #555;
+}
+
+.section-content p {
+    margin: 20px 0;
+}
+
+.job, .degree {
+    margin-bottom: 20px;
+}
+
+.job h4, .degree h4 {
+    margin: 20px;
+    font-size: 1.1em;
+    color: #333;
+}
+
+.job p, .degree p {
+    margin: 10px 0;
+    padding-left: 20px;
+    font-size: 0.9em;
+    color: #555;
+}
+
+.key-skills ul {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.key-skills li {
+    flex: 1 1 30%;
+    margin: 10px 0;
+    font-size: 0.9em;
+    color: #555;
+}
+
+/* Responsive Design */
+@media (max-width: 600px) {
+    .header-content {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .name-title {
+        text-align: left;
+        margin-top: 20px;
+    }
+
+    .section-title {
+        flex: 20px 0 100px; /* Smaller fixed width for mobile */
+        font-size: 1em;
+    }
+}
