@@ -5,7 +5,7 @@ import PersonalProfile from './PersonalProfile';
 import WorkExperience from './WorkExperience';
 import Skills from './Skills';
 import Education from './Education';
-import "./styles.css";
+import './styles.css';
 
 class App extends Component {
   constructor(props) {
