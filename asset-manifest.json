@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/yasminjd/resume.git/static/css/main.923de01d.css",
-    "main.js": "/yasminjd/resume.git/static/js/main.74589f0c.js",
+    "main.js": "/yasminjd/resume.git/static/js/main.02a79561.js",
     "static/js/156.ce477856.chunk.js": "/yasminjd/resume.git/static/js/156.ce477856.chunk.js",
     "index.html": "/yasminjd/resume.git/index.html",
     "main.923de01d.css.map": "/yasminjd/resume.git/static/css/main.923de01d.css.map",
-    "main.74589f0c.js.map": "/yasminjd/resume.git/static/js/main.74589f0c.js.map",
+    "main.02a79561.js.map": "/yasminjd/resume.git/static/js/main.02a79561.js.map",
     "156.ce477856.chunk.js.map": "/yasminjd/resume.git/static/js/156.ce477856.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.923de01d.css",
-    "static/js/main.74589f0c.js"
+    "static/js/main.02a79561.js"
   ]
 }
