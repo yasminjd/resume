@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/yasminjd/resume.git/static/css/main.923de01d.css",
-    "main.js": "/yasminjd/resume.git/static/js/main.02a79561.js",
-    "static/js/156.ce477856.chunk.js": "/yasminjd/resume.git/static/js/156.ce477856.chunk.js",
-    "index.html": "/yasminjd/resume.git/index.html",
-    "main.923de01d.css.map": "/yasminjd/resume.git/static/css/main.923de01d.css.map",
-    "main.02a79561.js.map": "/yasminjd/resume.git/static/js/main.02a79561.js.map",
-    "156.ce477856.chunk.js.map": "/yasminjd/resume.git/static/js/156.ce477856.chunk.js.map"
+    "main.css": "/yasminjd.github.io/resume.git/static/css/main.923de01d.css",
+    "main.js": "/yasminjd.github.io/resume.git/static/js/main.ec1ced39.js",
+    "static/js/156.ce477856.chunk.js": "/yasminjd.github.io/resume.git/static/js/156.ce477856.chunk.js",
+    "index.html": "/yasminjd.github.io/resume.git/index.html",
+    "main.923de01d.css.map": "/yasminjd.github.io/resume.git/static/css/main.923de01d.css.map",
+    "main.ec1ced39.js.map": "/yasminjd.github.io/resume.git/static/js/main.ec1ced39.js.map",
+    "156.ce477856.chunk.js.map": "/yasminjd.github.io/resume.git/static/js/156.ce477856.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.923de01d.css",
-    "static/js/main.02a79561.js"
+    "static/js/main.ec1ced39.js"
   ]
 }
